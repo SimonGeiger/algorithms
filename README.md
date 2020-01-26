@@ -11,4 +11,5 @@ this repository contains common algorithms in programming
 - [github formatting](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### ToDo
-- [ ] add other algorithms @SimonGeiger
+- [ ] add more algorithms
+- [ ] read other [github guides](https://guides.github.com/)

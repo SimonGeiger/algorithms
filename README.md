@@ -13,3 +13,4 @@ this repository contains common algorithms in programming
 ### ToDo
 - [ ] try more algorithms (e.g. [hough transformation](https://alyssaq.github.io/2014/understanding-hough-transform/))
 - [ ] read other [github guides](https://guides.github.com/)
+- [ ] look into [github explore]()

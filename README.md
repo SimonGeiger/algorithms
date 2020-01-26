@@ -11,5 +11,5 @@ this repository contains common algorithms in programming
 - [github formatting](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### ToDo
-- [ ] add more algorithms
+- [ ] try more algorithms (e.g. [hough transformation](https://alyssaq.github.io/2014/understanding-hough-transform/))
 - [ ] read other [github guides](https://guides.github.com/)
